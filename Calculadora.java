@@ -1,3 +1,8 @@
+/*Crie uma calculadora com as 4 operações básicas + potenciação, atendendo os seguintes requisitos:
+1 - opções de 1 a 5 serão as operações.
+2 - opção maior que 6 encerrará a aplicação.
+3 - Será executada em Loop até que o usuário encerre a aplicação. (vide opção 2).
+*/
 import java.util.Scanner;
 public class Calculadora{
 	
